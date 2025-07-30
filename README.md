@@ -12,13 +12,13 @@ O programa possui um Menu com as seguintes opções:
 - Aplicar Juros: Solicita ao usuário que informe uma taxa de juros percentual, calcula o juros e atualiza o montante do usuário;
 - Simular Empréstimo: Solicita o valor a ser emprestado, a taxa de juros mensal percentual e a quantidade de parcelas para pagamento. Em seguida mostra na tela o valor de cada parcela, a quantidade total de juros a ser pago e o somatório dos valores de todas as parcelas. Utilizando juros simples;
 - Extrato: Mostra na tela uma relatório com as seguintes informações:
-            - Nome do Cliente;
-            - Saldo Inicial;
-            - Saldo Atual;
-            - Quantidade de Depósitos Realizados;
-            - Valor Total dos Depósitos Realizados;
-            - Quantidade de Saques Realizados;
-            - Valor Total dos Saques Realizados;
-            - Valor Total dos Juros Recebidos;
+            - Nome do Cliente |
+            - Saldo Inicial |
+            - Saldo Atual |
+            - Quantidade de Depósitos Realizados |
+            - Valor Total dos Depósitos Realizados |
+            - Quantidade de Saques Realizados |
+            - Valor Total dos Saques Realizados |
+            - Valor Total dos Juros Recebidos |
             - Saldos Mínimos e Máximos da Conta.
 - Sair: Encerra o programa.
